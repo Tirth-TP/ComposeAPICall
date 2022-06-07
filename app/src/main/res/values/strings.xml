@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeAPICall</string>
+    <string name="title_activity_post_details">PostDetails</string>
+</resources>
